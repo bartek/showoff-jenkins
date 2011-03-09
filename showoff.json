@@ -1,0 +1,8 @@
+{ "name": "Continous Integration with Jenkins and Django", 
+  "sections": [ 
+    {"section":"intro"},
+    {"section": "jenkins"},
+    {"section": "django"},
+    {"section": "final"}
+  ]
+}
